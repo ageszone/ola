@@ -6,8 +6,8 @@
       <protocol>https</protocol>
       <host>rb-proxy-de.bosch.com</host>
       <port>8080</port>
-      <username>de%5Ccdd8fe</username>
-      <password>SDDCrh2018%21</password>
+      <username>de\cdd8fe</username>
+      <password>SDDCrh2018!</password>
     </proxy>
   </proxies>
 </settings>
