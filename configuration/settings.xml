@@ -4,10 +4,10 @@
       <id>proxy</id>
       <active>true</active>
       <protocol>https</protocol>
-      <host>rb-proxy-de.bosch.com</host>
-      <port>8080</port>
-      <username>de\cdd8fe</username>
-      <password>SDDCrh2018!</password>
+      <host>proxy_hostname</host>
+      <port>proxy_port</port>
+      <username>proxy_username</username>
+      <password>proxy_password</password>
     </proxy>
   </proxies>
 </settings>
