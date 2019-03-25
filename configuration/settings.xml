@@ -1,13 +1,1 @@
-<settings>
-  <proxies>
-   <proxy>
-      <id>proxy</id>
-      <active>true</active>
-      <protocol>https</protocol>
-      <host>proxy_hostname</host>
-      <port>proxy_port</port>
-      <username>proxy_username</username>
-      <password>proxy_password</password>
-    </proxy>
-  </proxies>
-</settings>
+
